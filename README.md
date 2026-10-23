@@ -110,7 +110,7 @@ Continuously monitors the watchlist in the background:
 ## Quick Start (Docker)
 
 ```bash
-git clone https://github.com/your-org/multi-agent-financial-intelligence-hub.git
+git clone https://github.com/anithagummuluri12345/AI-Powered-Financial-Market-Intelligence
 cd multi-agent-financial-intelligence-hub
 
 # Configure LLM provider (Ollama by default — no API key needed)
